@@ -1,4 +1,4 @@
-# evalucaion
+# evalucion
 actividada 1
 abrie el csv.mostrar las siguientes columnas gender, lunch, matsh score.
 mostrar las primeras 12 filas. mostrar las ultimas 8 filas
